@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="tv_titulo">Cálculo de Intereses</string>
+    <string name="ed_cantidad_dinero">Cantidad de dinero:</string>
+    <string name="ed_tasa_interes">Tasa de Interés:</string>
+    <string name="tv_dias">Días:</string>
+    <string name="tv_resultado_dias"></string>
+    <string name="pago_total"></string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_impresion">Impresión</string>
+    <string name="tv_resultado"></string>
+
+
+    <!--resultado calculadora-->
+    <string name="tv_titulo_recibo">Resultado Interés Diario</string>
+    <string name="tv_cant_dinero_text">Cantidad ingresada:</string>
+    <string name="tv_tasa_interes_text">Tasa interés:</string>
+    <string name="tv_dias_total_text">Total días:</string>
+    <string name="tv_cant_dinero"></string>
+    <string name="tv_tasa_interes"></string>
+    <string name="tv_dias_total"></string>
+    <string name="tv_interes_total">El interés diario es: </string>
+    <string name="tv_interes_diario"></string>
+
+
+</resources>
